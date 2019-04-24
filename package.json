@@ -1,0 +1,24 @@
+{
+  "name": "ugr-distrosocial",
+  "version": "1.0.0",
+  "description": "Front end for proof of concept Distributed Social Network",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s527356/UGR-DistroSocial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s527356/UGR-DistroSocial/issues"
+  },
+  "homepage": "https://github.com/s527356/UGR-DistroSocial#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "jquery": "^3.3.1"
+  }
+}
